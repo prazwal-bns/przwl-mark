@@ -19,7 +19,7 @@ A lightning-fast Chrome extension that revolutionizes your bookmarking experienc
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/prajwalbanstola/przwl-mark.git
+git clone https://github.com/prazwal-bns/przwl-mark.git
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
@@ -108,7 +108,7 @@ Have questions or suggestions? We'd love to hear from you!
 ## 👤 Author
 
 **Prajwal Banstola**
-- GitHub: [@prajwalbanstola](https://github.com/prajwalbanstola)
+- GitHub: [@prazwal-bns](https://github.com/prazwal-bns)
 - Passionate about creating efficient tools for better productivity
 
 ---
