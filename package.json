@@ -1,0 +1,15 @@
+{
+  "name": "bookmarkextension",
+  "version": "1.0.0",
+  "description": "A powerful Chrome extension for quick and efficient bookmark management with keyboard shortcuts and smart features.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^3.1.0"
+  }
+}
