@@ -108,7 +108,7 @@ Have questions or suggestions? We'd love to hear from you!
 ## 👤 Author
 
 **Prajwal Banstola**
-- GitHub: [@prajwalbanstola]([https://github.com/prajwalbanstola](https://github.com/prazwal-bns))
+- GitHub: [@prajwalbanstola](https://github.com/prajwalbanstola)
 - Passionate about creating efficient tools for better productivity
 
 ---
