@@ -30,7 +30,7 @@ git clone https://github.com/prazwal-bns/przwl-mark.git
 
 ### Quick Bookmarking
 - Press `Ctrl+Shift+K` (Windows/Linux) or `Cmd+Shift+K` (Mac) to instantly bookmark the current page
-- Click the extension icon and use the "Bookmark Current Page" button for visual bookmarking
+- Click on the extension icon and use the "Bookmark Current Page" button for visual bookmarking
 
 ### Managing Bookmarks
 - Access your bookmarks by clicking the extension icon
