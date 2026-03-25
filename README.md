@@ -15,7 +15,7 @@ A lightning fast Chrome extension that revolutionizes your bookmarking experienc
 - 🔄 **Sync Ready**: Your bookmarks sync automatically across devices
 - 🛡️ **Privacy Focused**: No data collection, just pure bookmarking functionality
 
-## 🚀 Installation
+## 🚀  Installation
 
 1. Clone this repository:
 ```bash
