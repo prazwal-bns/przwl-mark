@@ -2,7 +2,7 @@
 
 A lightning fast Chrome extension that updates your bookmarking experience with powerful features & elegant design.
 
-test
+tst
 
 ## ✨ Features
 
