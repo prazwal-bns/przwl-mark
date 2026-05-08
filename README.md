@@ -1,6 +1,6 @@
 # przwl-mark
 
-A lightning fast Chrome extension that revolutionizes your bookmarking experience with powerful features & elegant design.
+A lightning fast Chrome extension that updates your bookmarking experience with powerful features & elegant design.
 
 ## ✨ Features
 
