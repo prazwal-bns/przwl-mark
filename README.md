@@ -2,6 +2,8 @@
 
 A lightning fast Chrome extension that updates your bookmarking experience with powerful features & elegant design.
 
+test
+
 ## ✨ Features
 
 - 🚀 **Lightning-Fast Bookmarking**: Save pages instantly with a single keyboard shortcut
