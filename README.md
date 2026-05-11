@@ -4,7 +4,7 @@ A lightning fast Chrome extension that updates your bookmarking experience with 
 
 ## ✨ Features
 
-- 🚀 **Lightning-Fast Bookmarking**: Save pages instantly with a single keyboard shortcut
+- 🚀 **Lightning-Fast Book-marking**: Save pages instantly with a single keyboard shortcut
 - 📁 **Smart Organization**: Create custom folders and organize bookmarks with drag-and-drop ease
 - 🔍 **Powerful Search**: Find bookmarks instantly with real-time search and filtering
 - 🌓 **Seamless Dark Mode**: Beautiful interface that adapts to your system theme
